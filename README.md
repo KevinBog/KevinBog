@@ -3,7 +3,8 @@
 Ik ben **Kevin**, een MBO 4 ICT-student met een passie voor Linux, netwerken en programmeren.
 
 Voor een overzicht van mijn projecten, verslagen en scripts, kijk je op mijn portfolio:  
-🔗 [Kevin's Portfolio Repository](https://github.com/KevinBog/portfolio)
+Voor mijn volledige portfolio, bezoek:  
+🔗 [Mijn Portfolio Website](https://kevinbog.github.io/portfolio/)
 
 Of bezoek mijn GitHub Pages site:  
 🔗 [Mijn Portfolio Website](https://kevinbog.github.io/html-cursus-projecten/)
