@@ -30,8 +30,6 @@ Mijn eigen GitHub Pages site met HTML-projecten:
 
 - ✅ GitHub portfolio opzetten
 - ⏳ Meedoen aan mijn eerste CTF (Hack The Box / TryHackMe)
-- 🔲 Stage vinden in cybersecurity of DevOps
-- 🔲 Doorgroeien naar HBO-ICT
 
 ---
 
