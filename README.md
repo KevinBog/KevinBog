@@ -35,7 +35,7 @@ Mijn eigen GitHub Pages site met HTML-projecten:
 
 ## 📫 Contact
 
-- 📎 LinkedIn: https://www.linkedin.com/in/kevin-bogaert-898743362/
+- 📎 [LinkedIn](https://www.linkedin.com/in/kevin-bogaert-898743362/)
 
 ---
 
