@@ -2,10 +2,12 @@
 
 Ik ben **Kevin**, een MBO 4 ICT-student met een passie voor:
 
-- 🐧 Linux & bash-scripting
-- 🌐 Netwerkbeheer met Cisco Packet Tracer
-- 🔐 Ethisch hacken en cybersecurity
-- 💻 Front-end: HTML, CSS & JavaScript
+- 🐧 Linux & bash-scripting  
+- 🌐 Netwerkbeheer met Cisco Packet Tracer  
+- 🔐 Ethisch hacken en cybersecurity  
+- 💻 Front-end: HTML, CSS & JavaScript  
+- 🐍 Python & automatisering  
+- 🖥️ Servers en systeembeheer 
 
 ---
 
